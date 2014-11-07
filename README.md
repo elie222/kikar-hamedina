@@ -1,3 +1,6 @@
+The branch newmodel is the main one now. Will merge into master at some point.
+
+
 Installation
 ==============
 
