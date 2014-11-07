@@ -1,4 +1,4 @@
-The branch newmodel is the main one now. Will merge into master at some point.
+The branch newmodel is the main one now. Will merge into master at some point. The stuff on master is extremely old.
 
 
 Installation
